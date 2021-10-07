@@ -1,0 +1,858 @@
+{
+    "Number of difference levels": 246,
+    "RMSE": 38.67016268828958,
+    "a": {
+        "bytes": 9907184,
+        "comparision_image": {
+            "bands": [
+                "R",
+                "G",
+                "B"
+            ],
+            "compression": "raw",
+            "dpi": [
+                600,
+                600
+            ]
+        },
+        "conversion note": "Image was converted to an RGB image, so some measures are relative to this conversion, not the orignal image",
+        "input_image": {
+            "bands": [
+                "L"
+            ],
+            "compression": "raw",
+            "dpi": [
+                600,
+                600
+            ]
+        },
+        "size": {
+            "height": 2701,
+            "width": 3666
+        },
+        "source": "C:/collections/ipres_images/IE99971/PM.tif"
+    },
+    "b": {
+        "bytes": 7826,
+        "comparision_image": {
+            "bands": [
+                "R",
+                "G",
+                "B"
+            ],
+            "dpi": [
+                72,
+                72
+            ],
+            "jfif": 257,
+            "jfif_density": [
+                72,
+                72
+            ],
+            "jfif_unit": 1,
+            "jfif_version": [
+                1,
+                1
+            ]
+        },
+        "conversion note": "Image was converted to an RGB image, so some measures are relative to this conversion, not the orignal image",
+        "input_image": {
+            "bands": [
+                "L"
+            ],
+            "dpi": [
+                72,
+                72
+            ],
+            "jfif": 257,
+            "jfif_density": [
+                72,
+                72
+            ],
+            "jfif_unit": 1,
+            "jfif_version": [
+                1,
+                1
+            ]
+        },
+        "size": {
+            "height": 2701,
+            "width": 3666
+        },
+        "source": "C:/collections/ipres_images/IE99971/small_thumbnail.jpg"
+    },
+    "difference_masks": {
+        "0": {
+            "pixels in band": 536215
+        },
+        "1": {
+            "pixels in band": 1042693
+        },
+        "2": {
+            "pixels in band": 942620
+        },
+        "3": {
+            "pixels in band": 788533
+        },
+        "4": {
+            "pixels in band": 623115
+        },
+        "5": {
+            "pixels in band": 494239
+        },
+        "6": {
+            "pixels in band": 400477
+        },
+        "7": {
+            "pixels in band": 335897
+        },
+        "8": {
+            "pixels in band": 290200
+        },
+        "9": {
+            "pixels in band": 258197
+        },
+        "10": {
+            "pixels in band": 235384
+        },
+        "11": {
+            "pixels in band": 217145
+        },
+        "12": {
+            "pixels in band": 200402
+        },
+        "13": {
+            "pixels in band": 186797
+        },
+        "14": {
+            "pixels in band": 175620
+        },
+        "15": {
+            "pixels in band": 165552
+        },
+        "16": {
+            "pixels in band": 155990
+        },
+        "17": {
+            "pixels in band": 148161
+        },
+        "18": {
+            "pixels in band": 140272
+        },
+        "19": {
+            "pixels in band": 133210
+        },
+        "20": {
+            "pixels in band": 126218
+        },
+        "21": {
+            "pixels in band": 118936
+        },
+        "22": {
+            "pixels in band": 113651
+        },
+        "23": {
+            "pixels in band": 106767
+        },
+        "24": {
+            "pixels in band": 101966
+        },
+        "25": {
+            "pixels in band": 96819
+        },
+        "26": {
+            "pixels in band": 91792
+        },
+        "27": {
+            "pixels in band": 86731
+        },
+        "28": {
+            "pixels in band": 82857
+        },
+        "29": {
+            "pixels in band": 77774
+        },
+        "30": {
+            "pixels in band": 73955
+        },
+        "31": {
+            "pixels in band": 70150
+        },
+        "32": {
+            "pixels in band": 66089
+        },
+        "33": {
+            "pixels in band": 63057
+        },
+        "34": {
+            "pixels in band": 59840
+        },
+        "35": {
+            "pixels in band": 56591
+        },
+        "36": {
+            "pixels in band": 53036
+        },
+        "37": {
+            "pixels in band": 51034
+        },
+        "38": {
+            "pixels in band": 47935
+        },
+        "39": {
+            "pixels in band": 45170
+        },
+        "40": {
+            "pixels in band": 42827
+        },
+        "41": {
+            "pixels in band": 40841
+        },
+        "42": {
+            "pixels in band": 38011
+        },
+        "43": {
+            "pixels in band": 36104
+        },
+        "44": {
+            "pixels in band": 34423
+        },
+        "45": {
+            "pixels in band": 32727
+        },
+        "46": {
+            "pixels in band": 30889
+        },
+        "47": {
+            "pixels in band": 29511
+        },
+        "48": {
+            "pixels in band": 27488
+        },
+        "49": {
+            "pixels in band": 26452
+        },
+        "50": {
+            "pixels in band": 24822
+        },
+        "51": {
+            "pixels in band": 23338
+        },
+        "52": {
+            "pixels in band": 22333
+        },
+        "53": {
+            "pixels in band": 21064
+        },
+        "54": {
+            "pixels in band": 20072
+        },
+        "55": {
+            "pixels in band": 19016
+        },
+        "56": {
+            "pixels in band": 17823
+        },
+        "57": {
+            "pixels in band": 16954
+        },
+        "58": {
+            "pixels in band": 15883
+        },
+        "59": {
+            "pixels in band": 15197
+        },
+        "60": {
+            "pixels in band": 14405
+        },
+        "61": {
+            "pixels in band": 13624
+        },
+        "62": {
+            "pixels in band": 13023
+        },
+        "63": {
+            "pixels in band": 12596
+        },
+        "64": {
+            "pixels in band": 11725
+        },
+        "65": {
+            "pixels in band": 11437
+        },
+        "66": {
+            "pixels in band": 11075
+        },
+        "67": {
+            "pixels in band": 10369
+        },
+        "68": {
+            "pixels in band": 10115
+        },
+        "69": {
+            "pixels in band": 9775
+        },
+        "70": {
+            "pixels in band": 9117
+        },
+        "71": {
+            "pixels in band": 8795
+        },
+        "72": {
+            "pixels in band": 8295
+        },
+        "73": {
+            "pixels in band": 7784
+        },
+        "74": {
+            "pixels in band": 7502
+        },
+        "75": {
+            "pixels in band": 7324
+        },
+        "76": {
+            "pixels in band": 6929
+        },
+        "77": {
+            "pixels in band": 6512
+        },
+        "78": {
+            "pixels in band": 6234
+        },
+        "79": {
+            "pixels in band": 6238
+        },
+        "80": {
+            "pixels in band": 5860
+        },
+        "81": {
+            "pixels in band": 5655
+        },
+        "82": {
+            "pixels in band": 5406
+        },
+        "83": {
+            "pixels in band": 5152
+        },
+        "84": {
+            "pixels in band": 4928
+        },
+        "85": {
+            "pixels in band": 4535
+        },
+        "86": {
+            "pixels in band": 4426
+        },
+        "87": {
+            "pixels in band": 4152
+        },
+        "88": {
+            "pixels in band": 4068
+        },
+        "89": {
+            "pixels in band": 3818
+        },
+        "90": {
+            "pixels in band": 3627
+        },
+        "91": {
+            "pixels in band": 3375
+        },
+        "92": {
+            "pixels in band": 3350
+        },
+        "93": {
+            "pixels in band": 3163
+        },
+        "94": {
+            "pixels in band": 2946
+        },
+        "95": {
+            "pixels in band": 2898
+        },
+        "96": {
+            "pixels in band": 2682
+        },
+        "97": {
+            "pixels in band": 2507
+        },
+        "98": {
+            "pixels in band": 2435
+        },
+        "99": {
+            "pixels in band": 2232
+        },
+        "100": {
+            "pixels in band": 2053
+        },
+        "101": {
+            "pixels in band": 1937
+        },
+        "102": {
+            "pixels in band": 1770
+        },
+        "103": {
+            "pixels in band": 1772
+        },
+        "104": {
+            "pixels in band": 1574
+        },
+        "105": {
+            "pixels in band": 1659
+        },
+        "106": {
+            "pixels in band": 1444
+        },
+        "107": {
+            "pixels in band": 1422
+        },
+        "108": {
+            "pixels in band": 1275
+        },
+        "109": {
+            "pixels in band": 1306
+        },
+        "110": {
+            "pixels in band": 1204
+        },
+        "111": {
+            "pixels in band": 1115
+        },
+        "112": {
+            "pixels in band": 1079
+        },
+        "113": {
+            "pixels in band": 969
+        },
+        "114": {
+            "pixels in band": 931
+        },
+        "115": {
+            "pixels in band": 834
+        },
+        "116": {
+            "pixels in band": 846
+        },
+        "117": {
+            "pixels in band": 814
+        },
+        "118": {
+            "pixels in band": 665
+        },
+        "119": {
+            "pixels in band": 681
+        },
+        "120": {
+            "pixels in band": 612
+        },
+        "121": {
+            "pixels in band": 591
+        },
+        "122": {
+            "pixels in band": 579
+        },
+        "123": {
+            "pixels in band": 533
+        },
+        "124": {
+            "pixels in band": 551
+        },
+        "125": {
+            "pixels in band": 468
+        },
+        "126": {
+            "pixels in band": 443
+        },
+        "127": {
+            "pixels in band": 427
+        },
+        "128": {
+            "pixels in band": 399
+        },
+        "129": {
+            "pixels in band": 365
+        },
+        "130": {
+            "pixels in band": 339
+        },
+        "131": {
+            "pixels in band": 301
+        },
+        "132": {
+            "pixels in band": 292
+        },
+        "133": {
+            "pixels in band": 265
+        },
+        "134": {
+            "pixels in band": 257
+        },
+        "135": {
+            "pixels in band": 227
+        },
+        "136": {
+            "pixels in band": 231
+        },
+        "137": {
+            "pixels in band": 197
+        },
+        "138": {
+            "pixels in band": 221
+        },
+        "139": {
+            "pixels in band": 205
+        },
+        "140": {
+            "pixels in band": 179
+        },
+        "141": {
+            "pixels in band": 158
+        },
+        "142": {
+            "pixels in band": 135
+        },
+        "143": {
+            "pixels in band": 130
+        },
+        "144": {
+            "pixels in band": 129
+        },
+        "145": {
+            "pixels in band": 86
+        },
+        "146": {
+            "pixels in band": 117
+        },
+        "147": {
+            "pixels in band": 93
+        },
+        "148": {
+            "pixels in band": 89
+        },
+        "149": {
+            "pixels in band": 73
+        },
+        "150": {
+            "pixels in band": 63
+        },
+        "151": {
+            "pixels in band": 72
+        },
+        "152": {
+            "pixels in band": 50
+        },
+        "153": {
+            "pixels in band": 53
+        },
+        "154": {
+            "pixels in band": 40
+        },
+        "155": {
+            "pixels in band": 40
+        },
+        "156": {
+            "pixels in band": 39
+        },
+        "157": {
+            "pixels in band": 40
+        },
+        "158": {
+            "pixels in band": 33
+        },
+        "159": {
+            "pixels in band": 27
+        },
+        "160": {
+            "pixels in band": 31
+        },
+        "161": {
+            "pixels in band": 26
+        },
+        "162": {
+            "pixels in band": 39
+        },
+        "163": {
+            "pixels in band": 30
+        },
+        "164": {
+            "pixels in band": 23
+        },
+        "165": {
+            "pixels in band": 28
+        },
+        "166": {
+            "pixels in band": 24
+        },
+        "167": {
+            "pixels in band": 15
+        },
+        "168": {
+            "pixels in band": 23
+        },
+        "169": {
+            "pixels in band": 19
+        },
+        "170": {
+            "pixels in band": 19
+        },
+        "171": {
+            "pixels in band": 24
+        },
+        "172": {
+            "pixels in band": 17
+        },
+        "173": {
+            "pixels in band": 7
+        },
+        "174": {
+            "pixels in band": 5
+        },
+        "175": {
+            "pixels in band": 4
+        },
+        "176": {
+            "pixels in band": 0
+        },
+        "177": {
+            "pixels in band": 3
+        },
+        "178": {
+            "pixels in band": 2
+        },
+        "179": {
+            "pixels in band": 6
+        },
+        "180": {
+            "pixels in band": 2
+        },
+        "181": {
+            "pixels in band": 2
+        },
+        "182": {
+            "pixels in band": 2
+        },
+        "183": {
+            "pixels in band": 1
+        },
+        "184": {
+            "pixels in band": 3
+        },
+        "185": {
+            "pixels in band": 3
+        },
+        "186": {
+            "pixels in band": 4
+        },
+        "187": {
+            "pixels in band": 5
+        },
+        "188": {
+            "pixels in band": 6
+        },
+        "189": {
+            "pixels in band": 2
+        },
+        "190": {
+            "pixels in band": 3
+        },
+        "191": {
+            "pixels in band": 1
+        },
+        "192": {
+            "pixels in band": 2
+        },
+        "193": {
+            "pixels in band": 1
+        },
+        "194": {
+            "pixels in band": 1
+        },
+        "195": {
+            "pixels in band": 3
+        },
+        "196": {
+            "pixels in band": 2
+        },
+        "197": {
+            "pixels in band": 1
+        },
+        "198": {
+            "pixels in band": 2
+        },
+        "199": {
+            "pixels in band": 0
+        },
+        "200": {
+            "pixels in band": 0
+        },
+        "201": {
+            "pixels in band": 0
+        },
+        "202": {
+            "pixels in band": 5
+        },
+        "203": {
+            "pixels in band": 1
+        },
+        "204": {
+            "pixels in band": 0
+        },
+        "205": {
+            "pixels in band": 1
+        },
+        "206": {
+            "pixels in band": 0
+        },
+        "207": {
+            "pixels in band": 0
+        },
+        "208": {
+            "pixels in band": 0
+        },
+        "209": {
+            "pixels in band": 1
+        },
+        "210": {
+            "pixels in band": 1
+        },
+        "211": {
+            "pixels in band": 2
+        },
+        "212": {
+            "pixels in band": 1
+        },
+        "213": {
+            "pixels in band": 0
+        },
+        "214": {
+            "pixels in band": 0
+        },
+        "215": {
+            "pixels in band": 0
+        },
+        "216": {
+            "pixels in band": 0
+        },
+        "217": {
+            "pixels in band": 0
+        },
+        "218": {
+            "pixels in band": 2
+        },
+        "219": {
+            "pixels in band": 1
+        },
+        "220": {
+            "pixels in band": 0
+        },
+        "221": {
+            "pixels in band": 0
+        },
+        "222": {
+            "pixels in band": 1
+        },
+        "223": {
+            "pixels in band": 1
+        },
+        "224": {
+            "pixels in band": 0
+        },
+        "225": {
+            "pixels in band": 0
+        },
+        "226": {
+            "pixels in band": 0
+        },
+        "227": {
+            "pixels in band": 0
+        },
+        "228": {
+            "pixels in band": 0
+        },
+        "229": {
+            "pixels in band": 0
+        },
+        "230": {
+            "pixels in band": 0
+        },
+        "231": {
+            "pixels in band": 0
+        },
+        "232": {
+            "pixels in band": 1
+        },
+        "233": {
+            "pixels in band": 1
+        },
+        "234": {
+            "pixels in band": 0
+        },
+        "235": {
+            "pixels in band": 1
+        },
+        "236": {
+            "pixels in band": 0
+        },
+        "237": {
+            "pixels in band": 1
+        },
+        "238": {
+            "pixels in band": 0
+        },
+        "239": {
+            "pixels in band": 0
+        },
+        "240": {
+            "pixels in band": 0
+        },
+        "241": {
+            "pixels in band": 1
+        },
+        "242": {
+            "pixels in band": 0
+        },
+        "243": {
+            "pixels in band": 0
+        },
+        "244": {
+            "pixels in band": 1
+        },
+        "245": {
+            "pixels in band": 1
+        },
+        "246": {
+            "pixels in band": 1
+        },
+        "247": {
+            "pixels in band": 0
+        },
+        "248": {
+            "pixels in band": 0
+        },
+        "249": {
+            "pixels in band": 0
+        },
+        "250": {
+            "pixels in band": 0
+        },
+        "251": {
+            "pixels in band": 0
+        },
+        "252": {
+            "pixels in band": 0
+        },
+        "253": {
+            "pixels in band": 0
+        },
+        "254": {
+            "pixels in band": 0
+        },
+        "255": {
+            "pixels in band": 0
+        }
+    },
+    "height": 2701,
+    "image_rescaled": true,
+    "number of pixels": 9901866,
+    "width": 3666
+}

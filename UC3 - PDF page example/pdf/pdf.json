@@ -1,0 +1,808 @@
+{
+    "Number of difference levels": 57,
+    "RMSE": 0.656683196437314,
+    "a": {
+        "bytes": 11606135,
+        "input_image": {
+            "bands": [
+                "R",
+                "G",
+                "B"
+            ]
+        },
+        "size": {
+            "height": 2339,
+            "width": 1654
+        },
+        "source": "C:/collections/ipres_images/a.ppm"
+    },
+    "b": {
+        "bytes": 11606135,
+        "input_image": {
+            "bands": [
+                "R",
+                "G",
+                "B"
+            ]
+        },
+        "size": {
+            "height": 2339,
+            "width": 1654
+        },
+        "source": "C:/collections/ipres_images/b.ppm"
+    },
+    "difference_masks": {
+        "0": {
+            "pixels in band": 3868373
+        },
+        "1": {
+            "pixels in band": 11
+        },
+        "2": {
+            "pixels in band": 9
+        },
+        "3": {
+            "pixels in band": 12
+        },
+        "4": {
+            "pixels in band": 6
+        },
+        "5": {
+            "pixels in band": 5
+        },
+        "6": {
+            "pixels in band": 7
+        },
+        "7": {
+            "pixels in band": 2
+        },
+        "8": {
+            "pixels in band": 3
+        },
+        "9": {
+            "pixels in band": 9
+        },
+        "10": {
+            "pixels in band": 5
+        },
+        "11": {
+            "pixels in band": 2
+        },
+        "12": {
+            "pixels in band": 4
+        },
+        "13": {
+            "pixels in band": 2
+        },
+        "14": {
+            "pixels in band": 12
+        },
+        "15": {
+            "pixels in band": 1
+        },
+        "16": {
+            "pixels in band": 5
+        },
+        "17": {
+            "pixels in band": 2
+        },
+        "18": {
+            "pixels in band": 2
+        },
+        "19": {
+            "pixels in band": 3
+        },
+        "20": {
+            "pixels in band": 2
+        },
+        "21": {
+            "pixels in band": 5
+        },
+        "22": {
+            "pixels in band": 5
+        },
+        "23": {
+            "pixels in band": 5
+        },
+        "24": {
+            "pixels in band": 3
+        },
+        "25": {
+            "pixels in band": 6
+        },
+        "26": {
+            "pixels in band": 1
+        },
+        "27": {
+            "pixels in band": 1
+        },
+        "28": {
+            "pixels in band": 8
+        },
+        "29": {
+            "pixels in band": 6
+        },
+        "30": {
+            "pixels in band": 3
+        },
+        "31": {
+            "pixels in band": 5
+        },
+        "32": {
+            "pixels in band": 0
+        },
+        "33": {
+            "pixels in band": 3
+        },
+        "34": {
+            "pixels in band": 2
+        },
+        "35": {
+            "pixels in band": 1
+        },
+        "36": {
+            "pixels in band": 3
+        },
+        "37": {
+            "pixels in band": 2
+        },
+        "38": {
+            "pixels in band": 2
+        },
+        "39": {
+            "pixels in band": 1
+        },
+        "40": {
+            "pixels in band": 0
+        },
+        "41": {
+            "pixels in band": 1
+        },
+        "42": {
+            "pixels in band": 7
+        },
+        "43": {
+            "pixels in band": 1
+        },
+        "44": {
+            "pixels in band": 0
+        },
+        "45": {
+            "pixels in band": 1
+        },
+        "46": {
+            "pixels in band": 1
+        },
+        "47": {
+            "pixels in band": 1
+        },
+        "48": {
+            "pixels in band": 0
+        },
+        "49": {
+            "pixels in band": 1
+        },
+        "50": {
+            "pixels in band": 1
+        },
+        "51": {
+            "pixels in band": 7
+        },
+        "52": {
+            "pixels in band": 1
+        },
+        "53": {
+            "pixels in band": 1
+        },
+        "54": {
+            "pixels in band": 1
+        },
+        "55": {
+            "pixels in band": 8
+        },
+        "56": {
+            "pixels in band": 133
+        },
+        "57": {
+            "pixels in band": 2
+        },
+        "58": {
+            "pixels in band": 0
+        },
+        "59": {
+            "pixels in band": 0
+        },
+        "60": {
+            "pixels in band": 0
+        },
+        "61": {
+            "pixels in band": 0
+        },
+        "62": {
+            "pixels in band": 0
+        },
+        "63": {
+            "pixels in band": 0
+        },
+        "64": {
+            "pixels in band": 0
+        },
+        "65": {
+            "pixels in band": 0
+        },
+        "66": {
+            "pixels in band": 0
+        },
+        "67": {
+            "pixels in band": 0
+        },
+        "68": {
+            "pixels in band": 0
+        },
+        "69": {
+            "pixels in band": 0
+        },
+        "70": {
+            "pixels in band": 0
+        },
+        "71": {
+            "pixels in band": 0
+        },
+        "72": {
+            "pixels in band": 0
+        },
+        "73": {
+            "pixels in band": 0
+        },
+        "74": {
+            "pixels in band": 0
+        },
+        "75": {
+            "pixels in band": 0
+        },
+        "76": {
+            "pixels in band": 0
+        },
+        "77": {
+            "pixels in band": 0
+        },
+        "78": {
+            "pixels in band": 0
+        },
+        "79": {
+            "pixels in band": 0
+        },
+        "80": {
+            "pixels in band": 0
+        },
+        "81": {
+            "pixels in band": 0
+        },
+        "82": {
+            "pixels in band": 0
+        },
+        "83": {
+            "pixels in band": 0
+        },
+        "84": {
+            "pixels in band": 0
+        },
+        "85": {
+            "pixels in band": 0
+        },
+        "86": {
+            "pixels in band": 0
+        },
+        "87": {
+            "pixels in band": 0
+        },
+        "88": {
+            "pixels in band": 0
+        },
+        "89": {
+            "pixels in band": 0
+        },
+        "90": {
+            "pixels in band": 0
+        },
+        "91": {
+            "pixels in band": 0
+        },
+        "92": {
+            "pixels in band": 0
+        },
+        "93": {
+            "pixels in band": 0
+        },
+        "94": {
+            "pixels in band": 0
+        },
+        "95": {
+            "pixels in band": 0
+        },
+        "96": {
+            "pixels in band": 0
+        },
+        "97": {
+            "pixels in band": 0
+        },
+        "98": {
+            "pixels in band": 0
+        },
+        "99": {
+            "pixels in band": 0
+        },
+        "100": {
+            "pixels in band": 0
+        },
+        "101": {
+            "pixels in band": 0
+        },
+        "102": {
+            "pixels in band": 0
+        },
+        "103": {
+            "pixels in band": 0
+        },
+        "104": {
+            "pixels in band": 0
+        },
+        "105": {
+            "pixels in band": 0
+        },
+        "106": {
+            "pixels in band": 0
+        },
+        "107": {
+            "pixels in band": 0
+        },
+        "108": {
+            "pixels in band": 0
+        },
+        "109": {
+            "pixels in band": 0
+        },
+        "110": {
+            "pixels in band": 0
+        },
+        "111": {
+            "pixels in band": 0
+        },
+        "112": {
+            "pixels in band": 0
+        },
+        "113": {
+            "pixels in band": 0
+        },
+        "114": {
+            "pixels in band": 0
+        },
+        "115": {
+            "pixels in band": 0
+        },
+        "116": {
+            "pixels in band": 0
+        },
+        "117": {
+            "pixels in band": 0
+        },
+        "118": {
+            "pixels in band": 0
+        },
+        "119": {
+            "pixels in band": 0
+        },
+        "120": {
+            "pixels in band": 0
+        },
+        "121": {
+            "pixels in band": 0
+        },
+        "122": {
+            "pixels in band": 0
+        },
+        "123": {
+            "pixels in band": 0
+        },
+        "124": {
+            "pixels in band": 0
+        },
+        "125": {
+            "pixels in band": 0
+        },
+        "126": {
+            "pixels in band": 0
+        },
+        "127": {
+            "pixels in band": 0
+        },
+        "128": {
+            "pixels in band": 0
+        },
+        "129": {
+            "pixels in band": 0
+        },
+        "130": {
+            "pixels in band": 0
+        },
+        "131": {
+            "pixels in band": 0
+        },
+        "132": {
+            "pixels in band": 0
+        },
+        "133": {
+            "pixels in band": 0
+        },
+        "134": {
+            "pixels in band": 0
+        },
+        "135": {
+            "pixels in band": 0
+        },
+        "136": {
+            "pixels in band": 0
+        },
+        "137": {
+            "pixels in band": 0
+        },
+        "138": {
+            "pixels in band": 0
+        },
+        "139": {
+            "pixels in band": 0
+        },
+        "140": {
+            "pixels in band": 0
+        },
+        "141": {
+            "pixels in band": 0
+        },
+        "142": {
+            "pixels in band": 0
+        },
+        "143": {
+            "pixels in band": 0
+        },
+        "144": {
+            "pixels in band": 0
+        },
+        "145": {
+            "pixels in band": 0
+        },
+        "146": {
+            "pixels in band": 0
+        },
+        "147": {
+            "pixels in band": 0
+        },
+        "148": {
+            "pixels in band": 0
+        },
+        "149": {
+            "pixels in band": 0
+        },
+        "150": {
+            "pixels in band": 0
+        },
+        "151": {
+            "pixels in band": 0
+        },
+        "152": {
+            "pixels in band": 0
+        },
+        "153": {
+            "pixels in band": 0
+        },
+        "154": {
+            "pixels in band": 0
+        },
+        "155": {
+            "pixels in band": 0
+        },
+        "156": {
+            "pixels in band": 0
+        },
+        "157": {
+            "pixels in band": 0
+        },
+        "158": {
+            "pixels in band": 0
+        },
+        "159": {
+            "pixels in band": 0
+        },
+        "160": {
+            "pixels in band": 0
+        },
+        "161": {
+            "pixels in band": 0
+        },
+        "162": {
+            "pixels in band": 0
+        },
+        "163": {
+            "pixels in band": 0
+        },
+        "164": {
+            "pixels in band": 0
+        },
+        "165": {
+            "pixels in band": 0
+        },
+        "166": {
+            "pixels in band": 0
+        },
+        "167": {
+            "pixels in band": 0
+        },
+        "168": {
+            "pixels in band": 0
+        },
+        "169": {
+            "pixels in band": 0
+        },
+        "170": {
+            "pixels in band": 0
+        },
+        "171": {
+            "pixels in band": 0
+        },
+        "172": {
+            "pixels in band": 0
+        },
+        "173": {
+            "pixels in band": 0
+        },
+        "174": {
+            "pixels in band": 0
+        },
+        "175": {
+            "pixels in band": 0
+        },
+        "176": {
+            "pixels in band": 0
+        },
+        "177": {
+            "pixels in band": 0
+        },
+        "178": {
+            "pixels in band": 0
+        },
+        "179": {
+            "pixels in band": 0
+        },
+        "180": {
+            "pixels in band": 0
+        },
+        "181": {
+            "pixels in band": 0
+        },
+        "182": {
+            "pixels in band": 0
+        },
+        "183": {
+            "pixels in band": 0
+        },
+        "184": {
+            "pixels in band": 0
+        },
+        "185": {
+            "pixels in band": 0
+        },
+        "186": {
+            "pixels in band": 0
+        },
+        "187": {
+            "pixels in band": 0
+        },
+        "188": {
+            "pixels in band": 0
+        },
+        "189": {
+            "pixels in band": 0
+        },
+        "190": {
+            "pixels in band": 0
+        },
+        "191": {
+            "pixels in band": 0
+        },
+        "192": {
+            "pixels in band": 0
+        },
+        "193": {
+            "pixels in band": 0
+        },
+        "194": {
+            "pixels in band": 0
+        },
+        "195": {
+            "pixels in band": 0
+        },
+        "196": {
+            "pixels in band": 0
+        },
+        "197": {
+            "pixels in band": 0
+        },
+        "198": {
+            "pixels in band": 0
+        },
+        "199": {
+            "pixels in band": 0
+        },
+        "200": {
+            "pixels in band": 0
+        },
+        "201": {
+            "pixels in band": 0
+        },
+        "202": {
+            "pixels in band": 0
+        },
+        "203": {
+            "pixels in band": 0
+        },
+        "204": {
+            "pixels in band": 0
+        },
+        "205": {
+            "pixels in band": 0
+        },
+        "206": {
+            "pixels in band": 0
+        },
+        "207": {
+            "pixels in band": 0
+        },
+        "208": {
+            "pixels in band": 0
+        },
+        "209": {
+            "pixels in band": 0
+        },
+        "210": {
+            "pixels in band": 0
+        },
+        "211": {
+            "pixels in band": 0
+        },
+        "212": {
+            "pixels in band": 0
+        },
+        "213": {
+            "pixels in band": 0
+        },
+        "214": {
+            "pixels in band": 0
+        },
+        "215": {
+            "pixels in band": 0
+        },
+        "216": {
+            "pixels in band": 0
+        },
+        "217": {
+            "pixels in band": 0
+        },
+        "218": {
+            "pixels in band": 0
+        },
+        "219": {
+            "pixels in band": 0
+        },
+        "220": {
+            "pixels in band": 0
+        },
+        "221": {
+            "pixels in band": 0
+        },
+        "222": {
+            "pixels in band": 0
+        },
+        "223": {
+            "pixels in band": 0
+        },
+        "224": {
+            "pixels in band": 0
+        },
+        "225": {
+            "pixels in band": 0
+        },
+        "226": {
+            "pixels in band": 0
+        },
+        "227": {
+            "pixels in band": 0
+        },
+        "228": {
+            "pixels in band": 0
+        },
+        "229": {
+            "pixels in band": 0
+        },
+        "230": {
+            "pixels in band": 0
+        },
+        "231": {
+            "pixels in band": 0
+        },
+        "232": {
+            "pixels in band": 0
+        },
+        "233": {
+            "pixels in band": 0
+        },
+        "234": {
+            "pixels in band": 0
+        },
+        "235": {
+            "pixels in band": 0
+        },
+        "236": {
+            "pixels in band": 0
+        },
+        "237": {
+            "pixels in band": 0
+        },
+        "238": {
+            "pixels in band": 0
+        },
+        "239": {
+            "pixels in band": 0
+        },
+        "240": {
+            "pixels in band": 0
+        },
+        "241": {
+            "pixels in band": 0
+        },
+        "242": {
+            "pixels in band": 0
+        },
+        "243": {
+            "pixels in band": 0
+        },
+        "244": {
+            "pixels in band": 0
+        },
+        "245": {
+            "pixels in band": 0
+        },
+        "246": {
+            "pixels in band": 0
+        },
+        "247": {
+            "pixels in band": 0
+        },
+        "248": {
+            "pixels in band": 0
+        },
+        "249": {
+            "pixels in band": 0
+        },
+        "250": {
+            "pixels in band": 0
+        },
+        "251": {
+            "pixels in band": 0
+        },
+        "252": {
+            "pixels in band": 0
+        },
+        "253": {
+            "pixels in band": 0
+        },
+        "254": {
+            "pixels in band": 0
+        },
+        "255": {
+            "pixels in band": 0
+        }
+    },
+    "height": 2339,
+    "image_rescaled": false,
+    "number of pixels": 3868706,
+    "width": 1654
+}
